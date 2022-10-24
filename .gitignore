@@ -1,0 +1,16 @@
+### Intellij ###
+.idea/
+*.iws
+/out/
+*.iml
+.idea_modules/
+atlassian-ide-plugin.xml
+
+
+### Gradle ###
+.gradle
+/build/
+out/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
